@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anumei0311
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...promt designing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Business analytics
+- 💞️ I’m looking to collaborate on ..projects on BA.
 - 📫 How to reach me ...
 
 <!---
